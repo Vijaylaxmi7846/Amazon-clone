@@ -5,7 +5,7 @@ This is my first HTML and CSS based Amazon clone project.
 ## 🚀 Live Website
 
 Click here to open:
-https://Vijaylaxmi7846.github.io/Amazon-clone/
+http://127.0.0.1:5500/index.html
 
 
 ## 🛠 Built With
